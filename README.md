@@ -6,7 +6,7 @@ Password Generator
 ``` sh
 python TDTpasswordGEN.py 
 ```
-![Print](/images/Print.jpg)
+![Print](/images/Print.png)
 
 That's all folks!
 
