@@ -51,7 +51,7 @@ def get_info():
     global num_especialchars
     num_especialchars = input('%sHow many especial characters at least?:%s '%(bcolors.OKGREEN, bcolors.ENDC))
     global num_number
-    num_number = input('%sHow many number at least?:%s '%(bcolors.OKGREEN, bcolors.ENDC))
+    num_number = input('%sHow many numbers at least?:%s '%(bcolors.OKGREEN, bcolors.ENDC))
 
     global total_choice
     total_choice = num_uppercase + num_lowercase + num_especialchars + num_number
